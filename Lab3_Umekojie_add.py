@@ -10,4 +10,4 @@ my_list.append ("water bottle")
 my_list.append ("slippers")
 my_list.append ("hat")
 
-print (my_list)
+print (sorted(my_list, reverse=True))
