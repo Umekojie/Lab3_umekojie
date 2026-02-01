@@ -3,3 +3,4 @@
 ### This program will import the list from replace and remove an item then pring the len.
 ### 2/1/26
 from Lab3_Umekojie_replace import my_list
+del my_list[4]
