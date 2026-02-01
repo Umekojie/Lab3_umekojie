@@ -4,3 +4,5 @@
 ### 1/30/26
 
 my_list = ["tops", "bottoms", "swimsuit", "shoes", "socks", "sweatshirts","bathrobe", "pj's", "underwear", "glasses"]
+print ("my list has ", len(my_list), "items.")
+print (sorted(my_list.title()))
