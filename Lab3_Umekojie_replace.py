@@ -4,4 +4,6 @@
 ### 2/1/26
 from Lab3_Umekojie_add import my_list
 my_list[4]="binoculars"
+print(my_list[0:4])
+
 print (my_list)
